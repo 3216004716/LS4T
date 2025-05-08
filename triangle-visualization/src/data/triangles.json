@@ -1,0 +1,7 @@
+[
+  { "id": 1, "size": 30, "color": "#ff0000" },
+  { "id": 2, "size": 50, "color": "#00ff00" },
+  { "id": 3, "size": 40, "color": "#0000ff" },
+  { "id": 4, "size": 60, "color": "#ffff00" },
+  { "id": 5, "size": 35, "color": "#ff00ff" }
+]
